@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Portfolio</string>
+    <string name="add_equity">Add Equity</string>
+    <string name="enter_equity_name">Enter Equity Name</string>
+    <string name="enter_qty">Enter Qty</string>
+    <string name="investment_date">Investment Date</string>
+    <string name="submit">Submit</string>
+</resources>
